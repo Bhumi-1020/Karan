@@ -5,3 +5,7 @@ joblib
 numpy
 imbalanced-learn
 category_encoders
+seaborn
+collections
+matplotlib
+statistics
